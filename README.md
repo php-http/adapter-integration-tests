@@ -1,3 +1,5 @@
+> DEPRECATED: Please use https://github.com/php-http/client-integration-tests
+
 # HTTP Adapter integration tests
 
 [![Latest Version](https://img.shields.io/github/release/php-http/adapter-integration-tests.svg?style=flat-square)](https://github.com/php-http/adapter-integration-tests/releases)
